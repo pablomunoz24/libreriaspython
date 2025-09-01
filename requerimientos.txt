@@ -1,6 +1,7 @@
-numpy
+numpy<2
 matplotlib
 scipy
 pandas
 scikit-learn
 git+https://github.com/veeresht/CommPy.git
+spyder
